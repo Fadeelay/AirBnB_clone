@@ -41,3 +41,4 @@ The test for the classes are in the`test_models folder`.
 ## Authors
 
 - Musa Abraham - (https://github.com/fessorx)
+-Muh Fadlullah Lawal -(https://github.com/Fadeelay)
